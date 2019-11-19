@@ -7,4 +7,5 @@
 - React
 - Sass
 - classname 
+- react-icons
 - 함수형 컴포넌트 
